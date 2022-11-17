@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ren! I'm learning a lot about coding and wanted a place to share it so here I am! I'll probably publish some things later.
+I'm Ash/Ren! I'm learning a lot about coding and wanted a place to share it so here I am! I'll probably publish some things later.
 
 <!--
 **neptuneaero27/neptuneaero27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
